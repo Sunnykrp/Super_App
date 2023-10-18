@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Super_App/static/css/main.b101b84e.css",
+    "main.js": "/Super_App/static/js/main.bdd4eb1d.js",
+    "static/media/leftbanner.jpg": "/Super_App/static/media/leftbanner.852c9f0196b7b3b27690.jpg",
+    "index.html": "/Super_App/index.html",
+    "main.b101b84e.css.map": "/Super_App/static/css/main.b101b84e.css.map",
+    "main.bdd4eb1d.js.map": "/Super_App/static/js/main.bdd4eb1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b101b84e.css",
+    "static/js/main.bdd4eb1d.js"
+  ]
+}
